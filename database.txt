@@ -1,0 +1,18 @@
+How to connect database in java
+01. Import package
+02. Load and register the driver
+03. Create Connection
+04. Create statement
+05. execute query
+06. process the result
+07. close
+
+
+Stream API
+After java 1.8 th addiotn to object oriented there are some functional programming.
+It is focus on what to do than how to do.
+
+
+
+
+https://www.youtube.com/watch?v=eoGITOPpBfU
